@@ -9,3 +9,5 @@ asdasdasscccc
 dsadasda
 NEW BRANCH TEST
 Non ff merge test
+
+Conflict solve test
