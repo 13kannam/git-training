@@ -14,3 +14,5 @@ solution test main branch
 
 Solution test, feature branch
 
+
+For tag only
